@@ -53,8 +53,7 @@ darsh = {
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**ReAct GitHub Agent**](https://github.com/Darsh-Nandu/React-Github-Agent) | Production-ready autonomous agent managing GitHub repos via LangGraph ReAct loop, FastMCP tools, dual memory (Mem0 + LangGraph), and a streaming FastAPI backend | `LangGraph` `FastMCP` `Mem0` `FastAPI` |
-| [**Blog Writing Agent**](https://github.com/Darsh-Nandu/Blog-Writing-Agent) | Agentic blog pipeline with web research, citation grounding, 
-and parallel section writing across 3 progressive versions | `LangChain` `Web Search` |
+| [**Blog Writing Agent**](https://github.com/Darsh-Nandu/Blog-Writing-Agent) | Agentic blog pipeline with web research, citation grounding, and parallel section writing across 3 progressive versions | `LangGraph` `Tavily` `Ollama` |
 | [**AI Failover Router**](https://github.com/Darsh-Nandu/ai-failover) | Demand-aware AI API router that automatically switches to a backup provider when traffic exceeds a threshold | `API Routing` `Reliability` |
 
 ---

@@ -77,14 +77,6 @@ darsh = {
 
 ---
 
-### 🌍 Applied AI
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**VisionGuide**](https://github.com/Darsh-Nandu/visionguide) | On-device vision-to-audio pipeline for visually impaired users — YOLOv10-nano + Gemma 3n E2B (INT4), fully offline on Android, <300ms latency | `YOLOv10` `Gemma 3n` `Android` |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">

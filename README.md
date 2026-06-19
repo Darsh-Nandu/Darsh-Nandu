@@ -92,7 +92,7 @@ Production-ready autonomous agent managing GitHub repos via LangGraph ReAct loop
 
 **[Blog-Writing-Agent](https://github.com/Darsh-Nandu/Blog-Writing-Agent)**
 
-Agentic blog pipeline with real-time web research, citation grounding, and parallel section writing — across 3 progressive versions.
+Agentic blog pipeline with real-time web research, citation grounding, and parallel section writing - across 3 progressive versions.
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square)
 ![Tavily](https://img.shields.io/badge/Tavily-0EA5E9?style=flat-square)
@@ -115,7 +115,7 @@ TypeScript CLI AI agent powered by Groq that interacts with the filesystem using
 
 **[ai-failover](https://github.com/Darsh-Nandu/ai-failover)**
 
-Demand-aware AI API router that automatically switches to a backup provider when traffic exceeds threshold — inspired by Gemini's high-demand behaviour.
+Demand-aware AI API router that automatically switches to a backup provider when traffic exceeds threshold - inspired by Gemini's high-demand behaviour.
 
 ![Routing](https://img.shields.io/badge/API_Routing-FF6B6B?style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -134,7 +134,7 @@ Demand-aware AI API router that automatically switches to a backup provider when
 
 **[DeepSeek-From-Scratch](https://github.com/Darsh-Nandu/DeepSeek-From-Scratch)**
 
-Modular DeepSeek LLM architecture — Byte-level BPE tokenization, Multi-Head Latent Attention (MLA), and Mixture-of-Experts (MoE).
+Modular DeepSeek LLM architecture - Byte-level BPE tokenization, Multi-Head Latent Attention (MLA), and Mixture-of-Experts (MoE).
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![MLA](https://img.shields.io/badge/MLA-6C63FF?style=flat-square)
@@ -145,7 +145,7 @@ Modular DeepSeek LLM architecture — Byte-level BPE tokenization, Multi-Head La
 
 **[MiniGPT](https://github.com/Darsh-Nandu/MiniGPT-Character-Level-Language-Model-from-Scratch)**
 
-Decoder-only GPT Transformer from scratch — multi-head causal self-attention, positional embeddings, autoregressive generation. Zero HuggingFace.
+Decoder-only GPT Transformer from scratch - multi-head causal self-attention, positional embeddings, autoregressive generation. Zero HuggingFace.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Transformer](https://img.shields.io/badge/Transformer-6C63FF?style=flat-square)
@@ -157,7 +157,7 @@ Decoder-only GPT Transformer from scratch — multi-head causal self-attention, 
 
 **[LoRA-From-Scratch](https://github.com/Darsh-Nandu/Low-Rank-Adaptation-From-Scratch)**
 
-Clean PyTorch LoRA implementation — understanding how low-rank weight updates enable efficient fine-tuning from first principles.
+Clean PyTorch LoRA implementation - understanding how low-rank weight updates enable efficient fine-tuning from first principles.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -167,7 +167,7 @@ Clean PyTorch LoRA implementation — understanding how low-rank weight updates 
 
 **[Knowledge-Distillation](https://github.com/Darsh-Nandu/Knowledge-Distillation-PyTorch)**
 
-Isolates the pure effect of distillation — teacher-guided student vs hard-label baseline on identical architectures with 5-fold cross-validation.
+Isolates the pure effect of distillation - teacher-guided student vs hard-label baseline on identical architectures with 5-fold cross-validation.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -179,7 +179,7 @@ Isolates the pure effect of distillation — teacher-guided student vs hard-labe
 
 **[systems-from-scratch](https://github.com/Darsh-Nandu/systems-from-scratch)**
 
-Hands-on journey through real software internals — memory allocators, shells, interpreters, emulators, and quantum algorithms.
+Hands-on journey through real software internals - memory allocators, shells, interpreters, emulators, and quantum algorithms.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -198,7 +198,7 @@ Hands-on journey through real software internals — memory allocators, shells, 
 
 **[Corrective-RAG](https://github.com/Darsh-Nandu/Corrective-Retrieval-Augmented-Generation)**
 
-CRAG pipeline with multi-stage corrective layer — document grading → strip extraction → filtering → context refinement → verified generation.
+CRAG pipeline with multi-stage corrective layer - document grading → strip extraction → filtering → context refinement → verified generation.
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=flat-square)
@@ -209,7 +209,7 @@ CRAG pipeline with multi-stage corrective layer — document grading → strip e
 
 **[neural-network-debugger](https://github.com/Darsh-Nandu/neural-network-debugger)**
 
-Deep semantic activation analysis for PyTorch/HuggingFace models — probe any layer across 6 classifier types to discover where concepts are encoded.
+Deep semantic activation analysis for PyTorch/HuggingFace models - probe any layer across 6 classifier types to discover where concepts are encoded.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
@@ -221,7 +221,7 @@ Deep semantic activation analysis for PyTorch/HuggingFace models — probe any l
 
 **[guardrails](https://github.com/Darsh-Nandu/guardrails)**
 
-Production-style LLM safety pipeline — regex filters, ML toxicity classifiers, prompt injection detection, and output scanning. Inspired by Anthropic, OpenAI & Meta.
+Production-style LLM safety pipeline - regex filters, ML toxicity classifiers, prompt injection detection, and output scanning. Inspired by Anthropic, OpenAI & Meta.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Safety](https://img.shields.io/badge/LLM_Safety-FF6B6B?style=flat-square)
@@ -241,7 +241,7 @@ Production-style LLM safety pipeline — regex filters, ML toxicity classifiers,
 
 **[neural-gateway](https://github.com/Darsh-Nandu/neural-gateway)**
 
-Production-grade LLM inference platform — BullMQ job queue, SSE token streaming, RAG pipeline (Qdrant + Gemini embeddings), and JWT auth.
+Production-grade LLM inference platform - BullMQ job queue, SSE token streaming, RAG pipeline (Qdrant + Gemini embeddings), and JWT auth.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -253,7 +253,7 @@ Production-grade LLM inference platform — BullMQ job queue, SSE token streamin
 
 **[data-quality-kit](https://github.com/Darsh-Nandu/data-quality-kit)**
 
-Batteries-included dataset quality testing framework — completeness, validity, distributions, label noise, drift, and text quality with unified scoring reports.
+Batteries-included dataset quality testing framework - completeness, validity, distributions, label noise, drift, and text quality with unified scoring reports.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ML](https://img.shields.io/badge/ML_Tooling-FF6B35?style=flat-square)
@@ -294,7 +294,7 @@ TypeScript REST API with JWT authentication and role-based authorization using E
 
 <div align="center">
 
-### 🌐 Let's connect — I'm looking for AI/ML internships!
+### 🌐 Let's connect - I'm looking for AI/ML internships!
 
 **[→ Visit my Portfolio](https://darsh-nandu.github.io/)**
 
